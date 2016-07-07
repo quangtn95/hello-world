@@ -1,0 +1,35 @@
+.stt, .thead, .title{
+	font-weight: bold;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+    padding: 70px 15px 0;
+}
+.container .text-muted {
+    margin: 20px 0;
+}
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.footer > .container > .pull-right {
+    height: 40px;
+    line-height: 40px;
+}
+
+code {
+    font-size: 80%;
+}
+
+.error_form {
+    font-size: 15px;
+    font-family: Arial;
+    color: #FF0052;
+}
