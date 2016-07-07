@@ -1,2 +1,2 @@
 # hello_world
-Started respository
+First day in oficce, try my best!
